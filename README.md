@@ -1,3 +1,3 @@
 # nextjs-modelo
 
-Modelo inicial para utilização de NextJS + TailwindCSS + Axios
+Modelo inicial para utilização de NextJS + TailwindCSS + Axios + ContextApi + Hooks
